@@ -1,7 +1,7 @@
 import React, { FC, useEffect } from 'react';
 import Box from '@mui/material/Box';
 import TextField from '@mui/material/TextField';
-import { Grid, List, ListItem, ListItemText, Typography } from '@mui/material';
+import { List, ListItem, ListItemText, Typography } from '@mui/material';
 import { TData } from '../../types/TData';
 
 type TProps = {
